@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react'
 import Image from 'next/image'
-
+import React ,{JSX} from 'react'
 const images = [
   '/placeholder.svg?height=50&width=50',
   '/placeholder.svg?height=60&width=60',

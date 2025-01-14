@@ -38,7 +38,7 @@ export default function PersonalDetails() {
               <DialogTitle>About John Doe</DialogTitle>
               <DialogDescription>
                 John is a passionate 3rd year Computer Science student specializing in Web Technologies. 
-                He's excited to showcase his final project for the Web Technology course at Acme University.
+                He&apos;s excited to showcase his final project for the Web Technology course at Acme University.
               </DialogDescription>
             </DialogHeader>
           </DialogContent>
